@@ -1,0 +1,19 @@
+{
+  "name": "tether-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyperswarm/rpc": "^3.3.2",
+    "hyperbee": "^2.19.6",
+    "hypercore": "^10.37.6",
+    "hyperdht": "^6.14.0",
+    "hyperswarm": "^4.7.14",
+    "inquirer": "^9.2.23"
+  }
+}
